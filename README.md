@@ -19,11 +19,8 @@ Remove Items – Delete any product from your cart with a single click.
 
 Persistent Cart – Cart data is saved in localStorage, so it stays even if you refresh or close the browser.
 
-Demo
-Live Preview: 
-
 Tech Stack
-Layer	Technology
+
 Frontend	HTML5, CSS3, JavaScript
 API	FakeStoreAPI
 State	localStorage
