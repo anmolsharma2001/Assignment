@@ -19,7 +19,7 @@ ShopEase is a lightweight e-commerce web app built with HTML, CSS, and JavaScrip
 💾 LocalStorage Support: Cart is saved locally for persistent experience.
 
 🚀 Demo
-Live Preview: [Add GitHub Pages or Netlify link here if deployed]
+Live Preview: 
 
 🧰 Tech Stack
 Layer	Technology
