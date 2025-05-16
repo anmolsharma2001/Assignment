@@ -1,26 +1,31 @@
-ShopEase: A Simple E-Commerce Website
-ShopEase is a basic e-commerce web app built using HTML, CSS, and JavaScript. It lets users browse a list of products, search by name, filter by category, and manage a shopping cart — all without needing a backend. Product data is pulled from a live API, and the cart is handled using localStorage, so everything runs entirely in the browser.
+# ShopEase 🛍️  
+A Simple E-Commerce Web App
 
-Why I Built This
-This project was a way to strengthen my JavaScript skills by building something practical. The idea was to simulate a real e-commerce experience while covering essential concepts like DOM manipulation, form handling, API integration, and basic state management using the browser’s localStorage.
+ShopEase is a lightweight e-commerce website built with plain HTML, CSS, and JavaScript. It allows users to browse products, search by name, filter by category, and manage a shopping cart — all without any backend. Product data comes from a public API, and the cart is powered by `localStorage`, so everything runs smoothly right in the browser.
 
-What It Can Do
-Live Product Feed – Products are fetched in real-time from the FakeStore API.
+---
 
-Search – Easily find products by typing part of their name.
+## 🚀 Why I Built This
 
-Category Filter – View only the items you’re interested in by selecting a category.
+I created ShopEase as a hands-on way to sharpen my JavaScript skills by building something real and interactive. The goal was to mimic the core features of an online store while practicing DOM manipulation, working with APIs, handling forms, and managing state using the browser's built-in storage.
 
-Add to Cart – Add products to your cart and track the quantity.
+---
 
-Cart Summary – See all the items in your cart, how many you’ve added, and the total price.
+## 🛠️ Features
 
-Remove Items – Delete any product from your cart with a single click.
+- **Live Product Feed** – Fetches product data on the fly using the FakeStore API.  
+- **Search** – Quickly find products by typing keywords.  
+- **Category Filter** – Narrow down products by selecting a specific category.  
+- **Add to Cart** – Easily add items and track their quantity.  
+- **Cart Summary** – View a breakdown of items in your cart with total cost.  
+- **Remove Items** – Remove products from the cart in one click.  
+- **Persistent Cart** – Cart stays intact across sessions thanks to `localStorage`.
 
-Persistent Cart – Cart data is saved in localStorage, so it stays even if you refresh or close the browser.
+---
 
-Tech Stack
+## 🧰 Tech Stack
 
-Frontend	HTML5, CSS3, JavaScript
-API	FakeStoreAPI
-State	localStorage
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **API:** [FakeStoreAPI](https://fakestoreapi.com/)  
+- **State Management:** localStorage
+
