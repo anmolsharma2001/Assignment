@@ -5,12 +5,6 @@ ShopEase is a lightweight e-commerce website built with plain HTML, CSS, and Jav
 
 ---
 
-## 🚀 Why I Built This
-
-I created ShopEase as a hands-on way to sharpen my JavaScript skills by building something real and interactive. The goal was to mimic the core features of an online store while practicing DOM manipulation, working with APIs, handling forms, and managing state using the browser's built-in storage.
-
----
-
 ## 🛠️ Features
 
 - **Live Product Feed** – Fetches product data on the fly using the FakeStore API.  
