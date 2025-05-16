@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="auth-container">
+    <h1 id="form-title">Register</h1>
+    <form id="auth-form">
+      <div id="name-field">
+        <input type="text" id="name" placeholder="Name" />
+      </div>
+      <input type="email" id="email" placeholder="Email" />
+      <input type="password" id="password" placeholder="Password" />
+      <div id="confirm-password-field">
+        <input type="password" id="confirmPassword" placeholder="Confirm Password" />
+      </div>
+      <button type="submit">Submit</button>
+      <p id="toggle-form">Already have an account? Login</p>
+      <p id="error-msg"></p>
+    </form>
+  </div>
+
+  <script src="js/auth.js"></script>
+</body>
+</html>
